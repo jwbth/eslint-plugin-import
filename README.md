@@ -116,7 +116,7 @@ extends:
   - plugin:import/recommended
 ```
 
-`plugin:import/recommended' is the combination of these two rule sets, which you can also use instead:
+`plugin:import/recommended` is the combination of these two rule sets, which you can also use instead:
 
 ```yaml
   - plugin:import/errors
